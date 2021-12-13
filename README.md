@@ -12,7 +12,7 @@ if you are new to Python ,,,,,,,,,,,,
 open you CMD in your PC and, 
 install phonenumbers module for python,
 
-got CMD and type :::: python -m pip install phonenumbers
+go to CMD and type :::: python -m pip install phonenumbers
 
 
 if you don't install phonenumbers module project does not working
