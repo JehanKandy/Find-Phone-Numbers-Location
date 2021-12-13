@@ -9,6 +9,8 @@ otherwise it not work..
 
 if you are new to Python ,,,,,,,,,,,,
 
+install python
+
 open you CMD in your PC and, 
 install phonenumbers module for python,
 
